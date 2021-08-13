@@ -2,6 +2,7 @@
 
 int main()
 {
+        
         int min = 1000;
         int max = -1000;
         for (int i = 0;i < 3 ; i++)
@@ -19,4 +20,5 @@ int main()
         printf("%d",sum);
         
         return 0;
+        
 }
