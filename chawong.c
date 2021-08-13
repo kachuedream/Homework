@@ -18,5 +18,5 @@ int main()
         sum = min + max;
         printf("%d",sum);
         
-        
+        return 0;
 }
