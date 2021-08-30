@@ -11,11 +11,11 @@ int main()
         {
             if((j<=i && j<=n*2-i)||(j>=i && j>=n*2-i))
             {
-                printf("* ");
+                printf("*");
             }
             else
             {
-                printf("  ");
+                printf(" ");
             }
         }
         printf("\n");
